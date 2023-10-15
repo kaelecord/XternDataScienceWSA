@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",2.1 mi,46 mins,2.2 mi,6 mins,4.4,11:00AM-11:50PM,True,n/a,drive
+2,Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",Fiesta on The Go,"2719 E 38th St, Indianapolis, IN 46218, USA",7.7 mi,2 hours 50 mins,10.4 mi,18 mins,4.0,4:00PM-10:00PM,False,False,drive
+3,Fiesta on The Go,"2719 E 38th St, Indianapolis, IN 46218, USA",Gaucho's Fire Express,"906 Carrollton Ave Suite 320, Indianapolis, IN 46202, USA",4.0 mi,1 hour 29 mins,4.3 mi,12 mins,4.7,10:00AM-10:00PM,True,n/a,drive
+4,Gaucho's Fire Express,"906 Carrollton Ave Suite 320, Indianapolis, IN 46202, USA",Restaurante Oaxaca,"5101 W 38th St, Indianapolis, IN 46254, USA",7.4 mi,2 hours 46 mins,8.1 mi,18 mins,4.5,6:00PM-2:00AM,False,False,drive
+5,Restaurante Oaxaca,"5101 W 38th St, Indianapolis, IN 46254, USA",IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",6.1 mi,2 hours 15 mins,7.4 mi,13 mins,-,-,-,-,drive

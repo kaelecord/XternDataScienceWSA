@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",Tacos Maela,"3440 Shadeland Ave, Indianapolis, IN 46226, USA",8.0 mi,3 hours 0 mins,9.9 mi,17 mins,4.7,11:00AM-8:30PM,n/a,n/a,drive
+2,Tacos Maela,"3440 Shadeland Ave, Indianapolis, IN 46226, USA",Tacos El Iturbidense,"6402 W 10th St, Indianapolis, IN 46214, USA",13.1 mi,4 hours 49 mins,14.3 mi,26 mins,4.7,6:00PM-12:00AM,n/a,n/a,drive
+3,Tacos El Iturbidense,"6402 W 10th St, Indianapolis, IN 46214, USA",Restaurante Oaxaca,"5101 W 38th St, Indianapolis, IN 46254, USA",5.1 mi,1 hour 51 mins,6.5 mi,13 mins,4.5,6:00PM-2:00AM,False,False,drive
+4,Restaurante Oaxaca,"5101 W 38th St, Indianapolis, IN 46254, USA",The Night Owl Food Truck,"S Meridian St, Indianapolis, IN 46225, USA",8.8 mi,3 hours 15 mins,11.3 mi,17 mins,5.0,8:30PM-2:30AM,n/a,n/a,drive
+5,The Night Owl Food Truck,"S Meridian St, Indianapolis, IN 46225, USA",IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",2.9 mi,1 hour 5 mins,3.2 mi,10 mins,-,-,-,-,drive

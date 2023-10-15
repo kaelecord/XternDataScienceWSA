@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",2.1 mi,46 mins,2.2 mi,6 mins,4.4,11:00AM-11:50PM,True,n/a,drive
+2,Taqueria El Taco Loco,"2705 W Washington St, Indianapolis, IN 46222, USA",El Amigo Taqueria Food Truck,"3356 W 16th St, Indianapolis, IN 46222, USA",2.1 mi,47 mins,2.1 mi,6 mins,4.3,12:00PM-12:00AM,n/a,n/a,drive
+3,El Amigo Taqueria Food Truck,"3356 W 16th St, Indianapolis, IN 46222, USA",Tha Corn Man,"2442 Central Ave, Indianapolis, IN 46205, USA",4.4 mi,1 hour 38 mins,4.9 mi,13 mins,3.8,3:00PM-9:00PM,False,n/a,drive
+4,Tha Corn Man,"2442 Central Ave, Indianapolis, IN 46205, USA",The Night Owl Food Truck,"S Meridian St, Indianapolis, IN 46225, USA",4.5 mi,1 hour 40 mins,4.7 mi,14 mins,5.0,8:30PM-2:30AM,n/a,n/a,drive
+5,The Night Owl Food Truck,"S Meridian St, Indianapolis, IN 46225, USA",IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",2.9 mi,1 hour 5 mins,3.2 mi,10 mins,n/a,-,-,-,drive

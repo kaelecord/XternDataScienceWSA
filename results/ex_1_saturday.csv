@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",ClusterTruck - Castleton,"4737 E 82nd St, Indianapolis, IN 46250, USA",12.7 mi,4 hours 43 mins,18.4 mi,25 mins,4.9,11:00AM-9:00PM,False,False,drive
+2,ClusterTruck - Castleton,"4737 E 82nd St, Indianapolis, IN 46250, USA",Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222, USA",13.8 mi,5 hours 5 mins,14.1 mi,32 mins,4.3,11:00AM-11:00PM,n/a,n/a,drive
+3,Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222, USA",Fiesta on The Go,"2719 E 38th St, Indianapolis, IN 46218, USA",6.7 mi,2 hours 30 mins,9.7 mi,17 mins,4.0,4:00PM-10:00PM,False,False,drive
+4,Fiesta on The Go,"2719 E 38th St, Indianapolis, IN 46218, USA",Food Truck Don Luis,"Lafayette Place Shopping Center, 3605 Commercial Dr, Indianapolis, IN 46222, USA",6.4 mi,2 hours 23 mins,6.8 mi,19 mins,3.0,6:00PM-12:00AM,n/a,n/a,drive
+5,Food Truck Don Luis,"Lafayette Place Shopping Center, 3605 Commercial Dr, Indianapolis, IN 46222, USA",IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",5.0 mi,1 hour 49 mins,6.9 mi,14 mins,-,-,-,-,drive

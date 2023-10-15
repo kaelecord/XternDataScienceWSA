@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222, USA",5.5 mi,2 hours 2 mins,6.9 mi,12 mins,5.0,11:00AM-10:00PM,False,False,drive
+2,KG Slider Station,"3748 Lafayette Rd, Indianapolis, IN 46222, USA",Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222, USA",1.2 mi,26 mins,1.2 mi,4 mins,4.5,5:00PM-1:00AM,False,False,walk
+3,Pico de Gallo Food Truck,"3014 Lafayette Rd #3000, Indianapolis, IN 46222, USA",Gaucho's Fire Express,"906 Carrollton Ave Suite 320, Indianapolis, IN 46202, USA",5.5 mi,2 hours 4 mins,8.9 mi,14 mins,4.7,10:00AM-10:00PM,True,n/a,drive
+4,Gaucho's Fire Express,"906 Carrollton Ave Suite 320, Indianapolis, IN 46202, USA",Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",7.7 mi,2 hours 53 mins,11.3 mi,20 mins,4.7,6:00PM-12:00AM,True,n/a,drive
+5,Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",5.8 mi,2 hours 9 mins,5.9 mi,17 mins,n/a,-,-,-,drive

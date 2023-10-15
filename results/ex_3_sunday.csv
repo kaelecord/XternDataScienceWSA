@@ -1,0 +1,6 @@
+leg,start_location,start_address,end_location,end_address,walk_distance,walk_time,drive_distance,drive_time,end_location_rating,hours,serve_beer,serve_wine,method
+1,IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204, USA",1.3 mi,29 mins,1.7 mi,8 mins,4.8,8:00AM-11:00PM,n/a,n/a,drive
+2,ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204, USA",El Amigo Taqueria Food Truck,"3356 W 16th St, Indianapolis, IN 46222, USA",3.5 mi,1 hour 20 mins,4.3 mi,12 mins,4.3,12:00PM-12:00AM,n/a,n/a,drive
+3,El Amigo Taqueria Food Truck,"3356 W 16th St, Indianapolis, IN 46222, USA",Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",5.1 mi,1 hour 56 mins,6.1 mi,13 mins,4.7,6:00PM-12:00AM,True,n/a,drive
+4,Birrieria Iturbidense,"6302 W Washington St, Indianapolis, IN 46241, USA",Fast-Taco's,"6154 Michigan Rd, Indianapolis, IN 46228, USA",11.2 mi,4 hours 9 mins,12.7 mi,21 mins,4.4,7:00PM-1:00AM,False,False,drive
+5,Fast-Taco's,"6154 Michigan Rd, Indianapolis, IN 46228, USA",IUPUI Campus Center,"420 University Blvd, Indianapolis, IN 46202, USA",7.0 mi,2 hours 34 mins,7.6 mi,15 mins,n/a,-,-,-,drive
