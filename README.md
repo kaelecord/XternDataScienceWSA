@@ -13,4 +13,4 @@ My original plan to create the maps also used the Google Map API capabilities, h
 
 ## Results
 The full notebook of code is located in a Jupyter Notebook file located in the attached folder. 
-The final schedules can be found under the names ex_#_day.csv with the maps in day#_map.html
+The final schedules can be found under the names ex_#_day.csv with the maps in day#_map.html. To see the interactive version of the map download the html files to a local device and then open in web browser.
